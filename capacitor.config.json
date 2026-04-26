@@ -1,6 +1,6 @@
 {
-  "appId": "{{APP_ID}}",
-  "appName": "{{APP_NAME}}",
+  "appId": "org.workshopdiy.alfasadalsiyasi",
+  "appName": "Al Fasad al-Siyasi",
   "webDir": "www",
   "android": {
     "allowMixedContent": false,
@@ -10,14 +10,14 @@
   "plugins": {
     "SplashScreen": {
       "launchShowDuration": 1500,
-      "backgroundColor": "{{BRAND_PRIMARY}}",
+      "backgroundColor": "#765422",
       "androidSplashResourceName": "splash",
       "androidScaleType": "CENTER_CROP",
       "showSpinner": false
     },
     "StatusBar": {
       "style": "DARK",
-      "backgroundColor": "{{BRAND_PRIMARY}}"
+      "backgroundColor": "#765422"
     }
   }
 }

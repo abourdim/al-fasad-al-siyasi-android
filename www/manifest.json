@@ -1,0 +1,12 @@
+{
+  "name": "Political Corruption — الفساد السياسي",
+  "short_name": "الفساد السياسي",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book on political corruption",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ECEFF1",
+  "theme_color": "#455A64",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
